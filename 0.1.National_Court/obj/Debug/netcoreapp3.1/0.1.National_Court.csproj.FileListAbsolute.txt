@@ -1,0 +1,13 @@
+C:\Users\administrator\source\repos\Exercises\0.1.National_Court\bin\Debug\netcoreapp3.1\0.1.National_Court.exe
+C:\Users\administrator\source\repos\Exercises\0.1.National_Court\bin\Debug\netcoreapp3.1\0.1.National_Court.deps.json
+C:\Users\administrator\source\repos\Exercises\0.1.National_Court\bin\Debug\netcoreapp3.1\0.1.National_Court.runtimeconfig.json
+C:\Users\administrator\source\repos\Exercises\0.1.National_Court\bin\Debug\netcoreapp3.1\0.1.National_Court.runtimeconfig.dev.json
+C:\Users\administrator\source\repos\Exercises\0.1.National_Court\bin\Debug\netcoreapp3.1\0.1.National_Court.dll
+C:\Users\administrator\source\repos\Exercises\0.1.National_Court\bin\Debug\netcoreapp3.1\0.1.National_Court.pdb
+C:\Users\administrator\source\repos\Exercises\0.1.National_Court\obj\Debug\netcoreapp3.1\0.1.National_Court.csprojAssemblyReference.cache
+C:\Users\administrator\source\repos\Exercises\0.1.National_Court\obj\Debug\netcoreapp3.1\0.1.National_Court.AssemblyInfoInputs.cache
+C:\Users\administrator\source\repos\Exercises\0.1.National_Court\obj\Debug\netcoreapp3.1\0.1.National_Court.AssemblyInfo.cs
+C:\Users\administrator\source\repos\Exercises\0.1.National_Court\obj\Debug\netcoreapp3.1\0.1.National_Court.csproj.CoreCompileInputs.cache
+C:\Users\administrator\source\repos\Exercises\0.1.National_Court\obj\Debug\netcoreapp3.1\0.1.National_Court.dll
+C:\Users\administrator\source\repos\Exercises\0.1.National_Court\obj\Debug\netcoreapp3.1\0.1.National_Court.pdb
+C:\Users\administrator\source\repos\Exercises\0.1.National_Court\obj\Debug\netcoreapp3.1\0.1.National_Court.genruntimeconfig.cache
