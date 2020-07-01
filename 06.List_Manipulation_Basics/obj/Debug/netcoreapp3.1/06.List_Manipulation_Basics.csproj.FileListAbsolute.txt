@@ -1,0 +1,13 @@
+C:\Users\administrator\source\repos\Exercises\06.List_Manipulation_Basics\obj\Debug\netcoreapp3.1\06.List_Manipulation_Basics.csprojAssemblyReference.cache
+C:\Users\administrator\source\repos\Exercises\06.List_Manipulation_Basics\obj\Debug\netcoreapp3.1\06.List_Manipulation_Basics.AssemblyInfoInputs.cache
+C:\Users\administrator\source\repos\Exercises\06.List_Manipulation_Basics\obj\Debug\netcoreapp3.1\06.List_Manipulation_Basics.AssemblyInfo.cs
+C:\Users\administrator\source\repos\Exercises\06.List_Manipulation_Basics\obj\Debug\netcoreapp3.1\06.List_Manipulation_Basics.csproj.CoreCompileInputs.cache
+C:\Users\administrator\source\repos\Exercises\06.List_Manipulation_Basics\bin\Debug\netcoreapp3.1\06.List_Manipulation_Basics.exe
+C:\Users\administrator\source\repos\Exercises\06.List_Manipulation_Basics\bin\Debug\netcoreapp3.1\06.List_Manipulation_Basics.deps.json
+C:\Users\administrator\source\repos\Exercises\06.List_Manipulation_Basics\bin\Debug\netcoreapp3.1\06.List_Manipulation_Basics.runtimeconfig.json
+C:\Users\administrator\source\repos\Exercises\06.List_Manipulation_Basics\bin\Debug\netcoreapp3.1\06.List_Manipulation_Basics.runtimeconfig.dev.json
+C:\Users\administrator\source\repos\Exercises\06.List_Manipulation_Basics\bin\Debug\netcoreapp3.1\06.List_Manipulation_Basics.dll
+C:\Users\administrator\source\repos\Exercises\06.List_Manipulation_Basics\bin\Debug\netcoreapp3.1\06.List_Manipulation_Basics.pdb
+C:\Users\administrator\source\repos\Exercises\06.List_Manipulation_Basics\obj\Debug\netcoreapp3.1\06.List_Manipulation_Basics.dll
+C:\Users\administrator\source\repos\Exercises\06.List_Manipulation_Basics\obj\Debug\netcoreapp3.1\06.List_Manipulation_Basics.pdb
+C:\Users\administrator\source\repos\Exercises\06.List_Manipulation_Basics\obj\Debug\netcoreapp3.1\06.List_Manipulation_Basics.genruntimeconfig.cache

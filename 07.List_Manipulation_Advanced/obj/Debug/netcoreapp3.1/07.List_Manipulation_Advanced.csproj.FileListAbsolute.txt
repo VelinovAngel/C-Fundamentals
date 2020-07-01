@@ -1,0 +1,13 @@
+C:\Users\administrator\source\repos\Exercises\07.List_Manipulation_Advanced\bin\Debug\netcoreapp3.1\07.List_Manipulation_Advanced.exe
+C:\Users\administrator\source\repos\Exercises\07.List_Manipulation_Advanced\bin\Debug\netcoreapp3.1\07.List_Manipulation_Advanced.deps.json
+C:\Users\administrator\source\repos\Exercises\07.List_Manipulation_Advanced\bin\Debug\netcoreapp3.1\07.List_Manipulation_Advanced.runtimeconfig.json
+C:\Users\administrator\source\repos\Exercises\07.List_Manipulation_Advanced\bin\Debug\netcoreapp3.1\07.List_Manipulation_Advanced.runtimeconfig.dev.json
+C:\Users\administrator\source\repos\Exercises\07.List_Manipulation_Advanced\bin\Debug\netcoreapp3.1\07.List_Manipulation_Advanced.dll
+C:\Users\administrator\source\repos\Exercises\07.List_Manipulation_Advanced\bin\Debug\netcoreapp3.1\07.List_Manipulation_Advanced.pdb
+C:\Users\administrator\source\repos\Exercises\07.List_Manipulation_Advanced\obj\Debug\netcoreapp3.1\07.List_Manipulation_Advanced.AssemblyInfoInputs.cache
+C:\Users\administrator\source\repos\Exercises\07.List_Manipulation_Advanced\obj\Debug\netcoreapp3.1\07.List_Manipulation_Advanced.AssemblyInfo.cs
+C:\Users\administrator\source\repos\Exercises\07.List_Manipulation_Advanced\obj\Debug\netcoreapp3.1\07.List_Manipulation_Advanced.csproj.CoreCompileInputs.cache
+C:\Users\administrator\source\repos\Exercises\07.List_Manipulation_Advanced\obj\Debug\netcoreapp3.1\07.List_Manipulation_Advanced.dll
+C:\Users\administrator\source\repos\Exercises\07.List_Manipulation_Advanced\obj\Debug\netcoreapp3.1\07.List_Manipulation_Advanced.pdb
+C:\Users\administrator\source\repos\Exercises\07.List_Manipulation_Advanced\obj\Debug\netcoreapp3.1\07.List_Manipulation_Advanced.genruntimeconfig.cache
+C:\Users\administrator\source\repos\Exercises\07.List_Manipulation_Advanced\obj\Debug\netcoreapp3.1\07.List_Manipulation_Advanced.csprojAssemblyReference.cache
