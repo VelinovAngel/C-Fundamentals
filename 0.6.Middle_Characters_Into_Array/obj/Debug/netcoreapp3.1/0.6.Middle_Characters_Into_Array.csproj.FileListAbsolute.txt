@@ -1,0 +1,12 @@
+C:\Users\administrator\source\repos\Exercises\0.6.Middle_Characters_Into_Array\bin\Debug\netcoreapp3.1\0.6.Middle_Characters_Into_Array.exe
+C:\Users\administrator\source\repos\Exercises\0.6.Middle_Characters_Into_Array\bin\Debug\netcoreapp3.1\0.6.Middle_Characters_Into_Array.deps.json
+C:\Users\administrator\source\repos\Exercises\0.6.Middle_Characters_Into_Array\bin\Debug\netcoreapp3.1\0.6.Middle_Characters_Into_Array.runtimeconfig.json
+C:\Users\administrator\source\repos\Exercises\0.6.Middle_Characters_Into_Array\bin\Debug\netcoreapp3.1\0.6.Middle_Characters_Into_Array.runtimeconfig.dev.json
+C:\Users\administrator\source\repos\Exercises\0.6.Middle_Characters_Into_Array\bin\Debug\netcoreapp3.1\0.6.Middle_Characters_Into_Array.dll
+C:\Users\administrator\source\repos\Exercises\0.6.Middle_Characters_Into_Array\bin\Debug\netcoreapp3.1\0.6.Middle_Characters_Into_Array.pdb
+C:\Users\administrator\source\repos\Exercises\0.6.Middle_Characters_Into_Array\obj\Debug\netcoreapp3.1\0.6.Middle_Characters_Into_Array.AssemblyInfoInputs.cache
+C:\Users\administrator\source\repos\Exercises\0.6.Middle_Characters_Into_Array\obj\Debug\netcoreapp3.1\0.6.Middle_Characters_Into_Array.AssemblyInfo.cs
+C:\Users\administrator\source\repos\Exercises\0.6.Middle_Characters_Into_Array\obj\Debug\netcoreapp3.1\0.6.Middle_Characters_Into_Array.csproj.CoreCompileInputs.cache
+C:\Users\administrator\source\repos\Exercises\0.6.Middle_Characters_Into_Array\obj\Debug\netcoreapp3.1\0.6.Middle_Characters_Into_Array.dll
+C:\Users\administrator\source\repos\Exercises\0.6.Middle_Characters_Into_Array\obj\Debug\netcoreapp3.1\0.6.Middle_Characters_Into_Array.pdb
+C:\Users\administrator\source\repos\Exercises\0.6.Middle_Characters_Into_Array\obj\Debug\netcoreapp3.1\0.6.Middle_Characters_Into_Array.genruntimeconfig.cache
