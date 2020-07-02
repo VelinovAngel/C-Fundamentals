@@ -1,0 +1,13 @@
+C:\Users\administrator\source\repos\Exercises\01. Disneyland Journey\bin\Debug\netcoreapp3.1\01. Disneyland Journey.exe
+C:\Users\administrator\source\repos\Exercises\01. Disneyland Journey\bin\Debug\netcoreapp3.1\01. Disneyland Journey.deps.json
+C:\Users\administrator\source\repos\Exercises\01. Disneyland Journey\bin\Debug\netcoreapp3.1\01. Disneyland Journey.runtimeconfig.json
+C:\Users\administrator\source\repos\Exercises\01. Disneyland Journey\bin\Debug\netcoreapp3.1\01. Disneyland Journey.runtimeconfig.dev.json
+C:\Users\administrator\source\repos\Exercises\01. Disneyland Journey\bin\Debug\netcoreapp3.1\01. Disneyland Journey.dll
+C:\Users\administrator\source\repos\Exercises\01. Disneyland Journey\bin\Debug\netcoreapp3.1\01. Disneyland Journey.pdb
+C:\Users\administrator\source\repos\Exercises\01. Disneyland Journey\obj\Debug\netcoreapp3.1\01. Disneyland Journey.csprojAssemblyReference.cache
+C:\Users\administrator\source\repos\Exercises\01. Disneyland Journey\obj\Debug\netcoreapp3.1\01. Disneyland Journey.AssemblyInfoInputs.cache
+C:\Users\administrator\source\repos\Exercises\01. Disneyland Journey\obj\Debug\netcoreapp3.1\01. Disneyland Journey.AssemblyInfo.cs
+C:\Users\administrator\source\repos\Exercises\01. Disneyland Journey\obj\Debug\netcoreapp3.1\01. Disneyland Journey.csproj.CoreCompileInputs.cache
+C:\Users\administrator\source\repos\Exercises\01. Disneyland Journey\obj\Debug\netcoreapp3.1\01. Disneyland Journey.dll
+C:\Users\administrator\source\repos\Exercises\01. Disneyland Journey\obj\Debug\netcoreapp3.1\01. Disneyland Journey.pdb
+C:\Users\administrator\source\repos\Exercises\01. Disneyland Journey\obj\Debug\netcoreapp3.1\01. Disneyland Journey.genruntimeconfig.cache
